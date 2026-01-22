@@ -67,10 +67,6 @@ You can deploy this portfolio using:
 * Change colors in CSS `:root` variables
 * Add more sections as needed
 
-## 📸 Preview
-
-![Portfolio Preview](preview.png)
-
 ## 📄 License
 
 This project is open-source and free to use.
